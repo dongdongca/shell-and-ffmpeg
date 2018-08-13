@@ -2,8 +2,8 @@
 **XMind文件需要XMind软件才能查看**
 ###1、shell脚本语言基础知识
 ![Image text](https://github.com/dongdongca/shell-and-ffmpeg/blob/master/image/shell_basis/shell_basis.png)
-![Image text](https://github.com/dongdongca/shell-and-ffmpeg/blob/master/image/shell_basis_01/shell_basis.png)
-![Image text](https://github.com/dongdongca/shell-and-ffmpeg/blob/master/image/shell_basis_02/shell_basis.png)
+![Image text](https://github.com/dongdongca/shell-and-ffmpeg/blob/master/image/shell_basis/shell_basis_01.png)
+![Image text](https://github.com/dongdongca/shell-and-ffmpeg/blob/master/image/shell_basis/shell_basis_02.png)
 
 
 ###2、shell重定向相关
