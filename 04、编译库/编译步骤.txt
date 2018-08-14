@@ -1,0 +1,19 @@
+先在终端执行
+./ffmpeg-download.sh
+
+注意：source="ffmpeg-4.0.2"改成对应的版本号
+
+然后执行
+./ffmpeg-build.sh arm64
+
+
+遇到的问题：
+1、报错：“GNU assembler not found, install gas-preprocessor”
+问题：gas-preprocessor.pl的版本与ffmpeg的版本不一致
+解决办法：下载版本一直的gas-preprocessor.pl
+
+2、出错,提示:
+/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc is unable to create an executable file.
+C compiler test failed.
+问题：使用最新的ffmpeg和gas-preprocessor.pl来进行编译就不会报错
+解决办法：下载版本一直的gas-preprocessor.pl
